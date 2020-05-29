@@ -1,0 +1,24 @@
+{
+  "name": "orisocialnetwork",
+  "version": "0.0.1",
+  "description": "origami social network",
+  "main": "index.js",
+  "scripts": {
+    "test": "origami social network"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vahidHossaini/orisocialnetwork.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "origamicore"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vahidHossaini/orisocialnetwork/issues"
+  },
+  "homepage": "https://github.com/vahidHossaini/orisocialnetwork#readme"
+}
